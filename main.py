@@ -122,7 +122,7 @@ async def filter(_, update):
             ],
             [
                 InlineKeyboardButton(
-                    text="Feedback", url="https://telegram.me/FayasNoushad"
+                    text="Feedback", url="https://telegram.me/Jdiginibe_bot"
                 )
             ],
         ]
